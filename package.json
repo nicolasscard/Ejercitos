@@ -1,0 +1,25 @@
+{
+  "name": "ejercitos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^6.2.0",
+    "lite-server": "^2.6.1",
+    "typescript": "^4.3.4"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "@types/node": "^15.12.5",
+    "@types/react": "^17.0.11",
+    "@types/react-native": "^0.64.10",
+    "@types/react-test-renderer": "^17.0.1",
+    "ts-node": "^10.0.0"
+  }
+}
